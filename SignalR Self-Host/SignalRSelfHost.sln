@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRSelfHost", "SignalRSelfHost\SignalRSelfHost.csproj", "{093E51FB-C5D1-40CE-A1D8-77ED4D631A44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavascriptClient", "JavascriptClient\JavascriptClient.csproj", "{58869FF2-0EEE-4235-BD0E-93A1276E7FF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{093E51FB-C5D1-40CE-A1D8-77ED4D631A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093E51FB-C5D1-40CE-A1D8-77ED4D631A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093E51FB-C5D1-40CE-A1D8-77ED4D631A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093E51FB-C5D1-40CE-A1D8-77ED4D631A44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58869FF2-0EEE-4235-BD0E-93A1276E7FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58869FF2-0EEE-4235-BD0E-93A1276E7FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58869FF2-0EEE-4235-BD0E-93A1276E7FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58869FF2-0EEE-4235-BD0E-93A1276E7FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
